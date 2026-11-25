@@ -1,33 +1,61 @@
-# Brylle Elmo Deligero — Portfolio
+# Brylle Elmo Deligero
 
-Complete static website export, including the latest falling book-stack animation.
+**Computer Science Student · CIIT College of Arts and Technology**
 
-## Deploy
-Extract this ZIP. Upload index.html, style.css, app.js, .nojekyll, and the entire assets directory to your host's website root. Keep the directory structure intact.
-No build command, npm install, server backend, API keys, environment variables, or third-party dependencies are required. Fonts are system fonts. Koi and pixel lettering are drawn by the included JavaScript.
+> Ain’t nobody gonna set my limits but ME!
 
-## GitHub repository and GitHub Pages
-1. Create a GitHub repository (for example, brylle-portfolio).
-2. Add the extracted contents to the repository root, with index.html directly in the root. Do not upload only the ZIP.
-3. In repository Settings > Pages, select Deploy from a branch, then main and / (root), and save.
-4. Use the website URL GitHub provides after deployment.
-The .nojekyll file disables Jekyll processing. All asset links are relative, supporting a project Pages URL.
+[Explore my portfolio](https://boblarper.github.io/brylleportfolio/)
 
-## Local preview
-From the extracted directory, run:
-    python -m http.server 8000
-Then visit http://localhost:8000. Python is only an optional local preview tool, not a production dependency. The copy-email feature uses the browser clipboard API and works on HTTPS or localhost (with a text fallback if unavailable).
+## About me
 
-## Included content
-- Complete HTML, CSS, and JavaScript source
-- Animated koi, scrolling effects, project book reader, filters, and falling stack animation
-- All deployed PNG previews and original coursework PDFs
-- File integrity manifest (SHA-256)
+I’m Brylle, a Bachelor of Science in Computer Science student fascinated by the possibilities of technology. I aspire to create technology that helps people, with a growing interest in AI and cybersecurity.
 
-The source reference videos and inspiration image are not embedded or loaded by the website, so they are not runtime assets and are not included. There are no video files used by the finished website.
+Curiosity drives me to explore new ideas, while kindness and fairness guide how I collaborate. As a visual learner, I use clear plans, diagrams, and patterns to understand complex concepts. This portfolio shares who I am today, what I’m learning, and the professional I’m working toward becoming.
 
-## Hosting and privacy
-This export reproduces the website content and interactions. The original ChatGPT Sites private-access gate is supplied by that hosting platform and is not part of the static website. GitHub Pages or other public hosting makes the website, contact email, and included coursework PDFs accessible to visitors. No credentials or account-specific hosting identifiers are included.
+## Inside the portfolio
 
-## Editing
-Edit index.html for content, style.css for design, and app.js for interactions. Replace files within assets while retaining their names, or update the references in index.html.
+- **Home** — An introduction to my academic background and personal outlook.
+- **About Me** — My strengths, learning style, and approach to working with others.
+- **Selected Work** — An interactive collection of books showcasing my learning and self-development journey.
+- **Skills & Direction** — My current foundations, areas for growth, and goals in AI and cybersecurity.
+- **Contact** — A place to connect about learning opportunities and collaborations.
+
+## Featured work
+
+### Escape the Silence
+
+A pixel-horror tracker used to document conflict encounters and practice speaking up. This experience helped me reflect on communication, express my needs respectfully, and contribute my ideas in group decisions.
+
+### The Self-Development Quest
+
+A gamified approach to building daily habits through quests, XP, and progress tracking. It helped me explore how visible feedback and manageable goals can encourage consistency.
+
+### My Strengths Map
+
+A visual connection between my personality, learning preferences, and personal strengths. It highlights how curiosity, prudence, kindness, and fairness support my development as an aspiring tech professional.
+
+### Building Better Habits
+
+A two-week time and stress management practice involving checklists, prioritization, time-blocking, journaling, Pomodoro breaks, and mindful breathing. My biggest lesson: small daily habits beat last-minute effort.
+
+### Finding My Voice
+
+A conflict management plan focused on using “I” statements and sharing ideas before agreeing. It represents my effort to become a more confident and thoughtful collaborator.
+
+These works document my IR001 learning journey through reflections, tracker screenshots, development plans, and progress reports.
+
+## Where I’m headed
+
+I’m exploring careers as an **AI Data Security Architect** or **Cybersecurity Remediation Engineer**, with the goal of helping organizations protect their systems and data.
+
+My next steps include developing Python and machine learning skills, completing beginner security labs, learning cloud fundamentals, and practicing automation. These are goals I’m working toward, building on my basic programming, IT, problem-solving, and teamwork foundations.
+
+## A portfolio in motion
+
+Animated pixel-art koi, oversized lettering, and a collection of falling book spines give the portfolio a playful visual identity. Each book opens into a closer look at the work and the learning behind it.
+
+## Let’s connect
+
+For learning opportunities, collaborations, or a conversation about technology:
+
+[elmdeligero@gmail.com](mailto:elmdeligero@gmail.com)
